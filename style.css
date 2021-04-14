@@ -1,0 +1,33 @@
+.note_color{
+    color: black;
+    font-size: 15px;
+    box-shadow: 5px 5px 15px gray;
+}
+.n{
+    font-size:22px;
+    font-weight:bold;
+    font-family:initial;
+    text-align:center;
+    width: 100%;
+}
+.footter{
+    color: lightyellow;
+    background-color: magenta;
+    text-align: center;
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+    line-height: 3;
+    box-shadow: 5px 5px 15px plum;
+
+}
+body{
+background-color:lightpink;
+}
+
+canvas{
+box-shadow: 5px 5px 15px blanchedalmond;
+border-radius: initial;
+border-width: 300;
+
+}
